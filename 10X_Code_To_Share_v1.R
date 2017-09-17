@@ -10,7 +10,7 @@
 ## The web page at the link above includes a link to a Google Drive that holds all of the 10-X reports zipped by year and by quarter
 ## Thanks to Professor Bill McDonald and his team for sharing these files!
 
-## Props to the creators of "googledrive" package for R! This would not have been possible withourt their elegant solution!
+## Props to the creators of "googledrive" package for R! This would not have been possible without their elegant solution!
 ## http://googledrive.tidyverse.org
 
 ## The "rlist" package was also quite helpful!
