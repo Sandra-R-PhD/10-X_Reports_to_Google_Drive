@@ -1,11 +1,11 @@
 # 10-X_Reports_to_Google_Drive  CC-BY-4.0 License
 R code to copy select 10-X report files to your main Google Drive folder for text / sentiment analysis. 
 
-# Recommended citation
+Recommended citation
 DOI: https://zenodo.org/badge/103856848.svg
+Creative Commons License CC-BY-4.0
 
 Recommendations for improvement can be directed to: Sandra.Rolnicki@hawk.iit.edu
-Creative Commons License CC-BY-4.0
 
 # Description of files:
 10X_Code_To_Share_v1.R --> Contains R code and references relevant R packages (googledrive and rlist)
