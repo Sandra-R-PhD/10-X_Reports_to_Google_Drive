@@ -1,0 +1,1 @@
+"Note: **Delete this row before reading this file into R!!** In the lines below, indicate both the type of report (e.g, 10-K, 10-K-A) and CIK. If you want all types of reports for a given CIK, you can simply list that CIK (as in the last line)."_10-K-A_edgar_data_38777__10-K_edgar_data_38777__10-Q_edgar_data_38777__38777_
