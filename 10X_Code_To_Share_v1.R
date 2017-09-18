@@ -90,7 +90,7 @@ for (z in v:y) { ## Starts loop to scan each quarter's directory
   z <- z+1
 } ## End loop to scan each quarter's directory
 
-g ## Should match the number of rows in the Listof10ksSource + 1 (check)
+g ## Should match the number of rows in the ListofCIKs + 1 (check)
 z ## Should match the value of y + 1 (check)
 
 ## Set variable for number of rows in list
