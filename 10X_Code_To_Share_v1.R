@@ -84,10 +84,10 @@ for (z in v:y) { ## Starts loop to scan each quarter's directory
                       list.files(path=ListofPaths[z],
                       pattern=ListofCIKs[g]))
 
-  g <- g+1
+
   } ## End loop to create list of files that match the CIKs and reports
   
-  z <- z+1
+
 } ## End loop to scan each quarter's directory
 
 g ## Should match the number of rows in the ListofCIKs + 1 (check)
@@ -109,7 +109,7 @@ i ## (check)
 
 for (i in 1:j) { ## Starts loop to upload each 10-X report file from local directory to main Google Drive folder
   drive_upload(Listof10ksSource[i], Listof10ksFiles[i], verbose = FALSE)
-  i <- i+1
+
 } ## End loop to upload each 10-X report file
 
 i ## Should match the value of j + 1 (check)
