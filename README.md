@@ -5,7 +5,7 @@ Suggested citation
 DOI: https://zenodo.org/badge/103856848.svg
 Creative Commons License CC-BY-4.0
 
-Recommendations for improvement can be directed to: Sandra.Rolnicki@hawk.iit.edu
+Recommendations for improvement can be directed to: Sandra.Rolnicki@northwestern.edu
 
 # Description of files:
 10X_Code_To_Share_v1.R --> Contains R code and references relevant R packages (googledrive and rlist)
